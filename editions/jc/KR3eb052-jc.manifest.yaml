@@ -1,0 +1,546 @@
+canonical_identifier: bkk:krp/KR3eb052/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eb052/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 臨症驗舌法
+  identifiers:
+    krp: KR3eb052
+  tags:
+    kr-categories: KR3eb
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eb052.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3eb052_001-jc.yaml, hash: 'sha256:104d5b0af648efe3eab3a7d8760cdb73f5f0e697e6629e073adb64ad53d7f219'}
+  - {seq: 3, filename: KR3eb052_003-jc.yaml, hash: 'sha256:2c8805a522f9086ea2f69620813b1527b56f1239c651e82c7f4ac5819abb72e7'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3eb052_001-jc.markers.yaml, hash: 'sha256:cb93df58c6346ccdaaf1ef096d6ec0fc3225ca57a45d6410db497678b832141a'}
+  - {seq: 3, role: markers, filename: assets/KR3eb052_003-jc.markers.yaml, hash: 'sha256:2f2996a38b2ccd9b87b679b9eb4b356942f854286939ae193f9b51e7ef5e61dc'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3eb052_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 4575
+  label: 上卷
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eb052_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 618
+  label: 臨症以驗舌為準統論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb052_jc_001-d2d3
+    span:
+    - body
+    - 618
+    - 860
+  label: 驗舌分虛實法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb052_jc_001-d2d4
+    span:
+    - body
+    - 860
+    - 1222
+  label: 驗舌分陰陽法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb052_jc_001-d2d5
+    span:
+    - body
+    - 1222
+    - 3977
+  label: 驗舌分臟腑配主方法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb052_jc_001-d2d6
+    span:
+    - body
+    - 3977
+    - 4300
+  label: 驗舌決生死法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb052_jc_001-d2d7
+    span:
+    - body
+    - 4300
+    - 4575
+  label: 臨症以驗舌為準結語
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.h1s1
+    span:
+    - body
+    - 0
+    - 6874
+  label: 下卷
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3d2
+    span:
+    - body
+    - 2
+    - 6651
+  label: 方略
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d6
+    span:
+    - body
+    - 167
+    - 266
+  label: 瀉火清肝飲方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d7
+    span:
+    - body
+    - 266
+    - 469
+  label: 滋水生肝飲方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d8
+    span:
+    - body
+    - 469
+    - 544
+  label: 逍遙散加生地薄荷方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d9
+    span:
+    - body
+    - 544
+    - 723
+  label: 逍遙散加丹皮山梔方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d10
+    span:
+    - body
+    - 723
+    - 866
+  label: 十味溫膽湯去枳實方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d11
+    span:
+    - body
+    - 866
+    - 1070
+  label: 當歸建中湯去膠飴方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d12
+    span:
+    - body
+    - 1070
+    - 1207
+  label: 七味飲倍肉桂方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d13
+    span:
+    - body
+    - 1207
+    - 1392
+  label: 養榮湯倍肉桂方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d14
+    span:
+    - body
+    - 1392
+    - 1476
+  label: 瀉黃散方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d15
+    span:
+    - body
+    - 1476
+    - 1584
+  label: 益黃散方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d16
+    span:
+    - body
+    - 1584
+    - 1747
+  label: 左歸飲去茯苓加花粉歸地方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d17
+    span:
+    - body
+    - 1747
+    - 1967
+  label: 歸脾湯去木香加丹皮山梔方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d18
+    span:
+    - body
+    - 1967
+    - 2108
+  label: 七味白朮散加半夏方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d19
+    span:
+    - body
+    - 2108
+    - 2200
+  label: 五味異功散加白芍方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d20
+    span:
+    - body
+    - 2200
+    - 2321
+  label: 參耆八珍湯方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d21
+    span:
+    - body
+    - 2321
+    - 2431
+  label: 薑桂養榮湯方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d22
+    span:
+    - body
+    - 2431
+    - 2510
+  label: 瀉心湯方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d23
+    span:
+    - body
+    - 2510
+    - 2618
+  label: 養心湯方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d24
+    span:
+    - body
+    - 2618
+    - 2782
+  label: 滋水清肝飲去柴胡加生地木通方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d25
+    span:
+    - body
+    - 2782
+    - 3098
+  label: 濟生歸脾湯去木香加丹皮麥冬方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d26
+    span:
+    - body
+    - 3098
+    - 3791
+  label: 補中益氣湯加山梔川烏方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d27
+    span:
+    - body
+    - 3791
+    - 3912
+  label: 噓血歸脾湯加丹皮肉桂方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d28
+    span:
+    - body
+    - 3912
+    - 4027
+  label: 棗仁養榮湯方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d29
+    span:
+    - body
+    - 4027
+    - 4178
+  label: 附子養榮湯方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d30
+    span:
+    - body
+    - 4178
+    - 4313
+  label: 瀉白散方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d31
+    span:
+    - body
+    - 4313
+    - 4409
+  label: 補肺湯方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d32
+    span:
+    - body
+    - 4409
+    - 4500
+  label: 潤腸滋水飲加生地當歸方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d33
+    span:
+    - body
+    - 4500
+    - 4686
+  label: 生金滋水飲加柴芩方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d34
+    span:
+    - body
+    - 4686
+    - 4809
+  label: 固腸散方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d35
+    span:
+    - body
+    - 4809
+    - 4931
+  label: 補中益氣合參附湯方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d36
+    span:
+    - body
+    - 4931
+    - 5045
+  label: 十全大補湯去肉桂加炮姜方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d37
+    span:
+    - body
+    - 5045
+    - 5151
+  label: 參附養榮湯去茯苓加炮姜方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d38
+    span:
+    - body
+    - 5151
+    - 5244
+  label: 清肝飲方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d39
+    span:
+    - body
+    - 5244
+    - 5332
+  label: 補元煎方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d40
+    span:
+    - body
+    - 5332
+    - 5434
+  label: 六味飲合滋腎丸方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d41
+    span:
+    - body
+    - 5434
+    - 5542
+  label: 六味飲合生脈散方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d42
+    span:
+    - body
+    - 5542
+    - 5683
+  label: 金匱腎氣丸方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d43
+    span:
+    - body
+    - 5683
+    - 5814
+  label: 八味地黃丸方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d44
+    span:
+    - body
+    - 5814
+    - 5884
+  label: 枸杞養榮湯方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d45
+    span:
+    - body
+    - 5884
+    - 5996
+  label: 十補丸方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d46
+    span:
+    - body
+    - 5996
+    - 6573
+  label: 附子養榮湯方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3.d2d47
+    span:
+    - body
+    - 6573
+    - 6651
+  label: 右歸丸方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3eb052_jc_003-d3d3
+    span:
+    - body
+    - 6651
+    - 6874
+  label: 驗舌配方結語
+  type: section
+  level: 2
+hash: sha256:88948c5231b4c08cafc8c1d48207d29afab89ae7e4ed87418d419bd2d79edfd6
