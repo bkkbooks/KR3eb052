@@ -17,11 +17,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3eb052_001.yaml, hash: 'sha256:76031bcfbe4fb16ab4daef92d9ececd223426b54277168c1147e2a49151610e4'}
-  - {seq: 3, filename: KR3eb052_003.yaml, hash: 'sha256:d1241d30e809cc0c73726a149d4b1503dde001c1661eedfd52b9dfc88514dcfb'}
+  - {seq: 1, filename: KR3eb052_001.yaml, hash: 'sha256:104d5b0af648efe3eab3a7d8760cdb73f5f0e697e6629e073adb64ad53d7f219'}
+  - {seq: 3, filename: KR3eb052_003.yaml, hash: 'sha256:2c8805a522f9086ea2f69620813b1527b56f1239c651e82c7f4ac5819abb72e7'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3eb052_001.markers.yaml, hash: 'sha256:23eabca42930f395a389e36451074a61a0617d2ad6a5bd59a512e71fb28422f9'}
-  - {seq: 3, role: markers, filename: assets/KR3eb052_003.markers.yaml, hash: 'sha256:275caaa901904e037492dece9d8865675c9522bbb56ffc93a603034e92f62b57'}
+  - {seq: 1, role: markers, filename: assets/KR3eb052_001.markers.yaml, hash: 'sha256:8b11f00e5b66290938a3de384698bffcc8061a28f7d53d2d7a2bd1771c2232a3'}
+  - {seq: 3, role: markers, filename: assets/KR3eb052_003.markers.yaml, hash: 'sha256:595afc6af055596f6ba4395b66f43cd013b1c2fa441338282e9e0258787bf809'}
 table_of_contents:
 - ref:
     seq: 1
@@ -543,7 +543,4 @@ table_of_contents:
   label: 驗舌配方結語
   type: section
   level: 2
-hash: sha256:252a7cb328ac06a530d5c5a3f693febe2e58fb3ec6f5168c142076e76b37d318
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9d61e300ad32bf93a373b3a020a4f183e2a49950016f69350c076c6f26f4004e
