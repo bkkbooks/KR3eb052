@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eb052/v1
 canonical_location: https://kanripo.org/bkk/KR3eb052/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 臨症驗舌法
   identifiers:
@@ -17,11 +17,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3eb052_001.yaml, hash: 'sha256:104d5b0af648efe3eab3a7d8760cdb73f5f0e697e6629e073adb64ad53d7f219'}
-  - {seq: 3, filename: KR3eb052_003.yaml, hash: 'sha256:2c8805a522f9086ea2f69620813b1527b56f1239c651e82c7f4ac5819abb72e7'}
+  - {seq: 1, filename: KR3eb052_001.yaml, hash: 'sha256:3ac78f5c523ac8a00e88b5a33ad35a01dca60f6d521deb903f2bd42f5589a29b'}
+  - {seq: 3, filename: KR3eb052_003.yaml, hash: 'sha256:61f0d4877ef88e9c105e362a3bce3ed391d004dd71790c5a58fbaf9526bd84ae'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3eb052_001.markers.yaml, hash: 'sha256:8b11f00e5b66290938a3de384698bffcc8061a28f7d53d2d7a2bd1771c2232a3'}
-  - {seq: 3, role: markers, filename: assets/KR3eb052_003.markers.yaml, hash: 'sha256:595afc6af055596f6ba4395b66f43cd013b1c2fa441338282e9e0258787bf809'}
+  - {seq: 1, role: markers, filename: assets/KR3eb052_001.markers.yaml, hash: 'sha256:3290badb620dd27d1665c9e08f84efc87b3b14e3c9977a1761092fa523cecd20'}
+  - {seq: 3, role: markers, filename: assets/KR3eb052_003.markers.yaml, hash: 'sha256:c150aac3ebaffc1f30d15085098dc4c97974994789c8b4a3dc508acc3368d1cf'}
 table_of_contents:
 - ref:
     seq: 1
@@ -543,4 +543,7 @@ table_of_contents:
   label: 驗舌配方結語
   type: section
   level: 2
-hash: sha256:9d61e300ad32bf93a373b3a020a4f183e2a49950016f69350c076c6f26f4004e
+hash: sha256:1c2a14077aa08beb8e73ab330d8cf4883e5ff7857fc1d3e58fadbdd900e4f5aa
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
