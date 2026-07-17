@@ -21,7 +21,7 @@ assets:
   - {seq: 3, filename: KR3eb052_003-jc.yaml, hash: 'sha256:2c8805a522f9086ea2f69620813b1527b56f1239c651e82c7f4ac5819abb72e7'}
   markers:
   - {seq: 1, role: markers, filename: assets/KR3eb052_001-jc.markers.yaml, hash: 'sha256:cb93df58c6346ccdaaf1ef096d6ec0fc3225ca57a45d6410db497678b832141a'}
-  - {seq: 3, role: markers, filename: assets/KR3eb052_003-jc.markers.yaml, hash: 'sha256:2f2996a38b2ccd9b87b679b9eb4b356942f854286939ae193f9b51e7ef5e61dc'}
+  - {seq: 3, role: markers, filename: assets/KR3eb052_003-jc.markers.yaml, hash: 'sha256:c502b25480936394d3dc5abb9b75bd7427f19a020800f1ff9128c2e591260f01'}
 table_of_contents:
 - ref:
     seq: 1
@@ -543,4 +543,4 @@ table_of_contents:
   label: 驗舌配方結語
   type: section
   level: 2
-hash: sha256:88948c5231b4c08cafc8c1d48207d29afab89ae7e4ed87418d419bd2d79edfd6
+hash: sha256:7e39e9dfc5104c13e76dca78f1ef94acf3e1e174548f8f1d3b01179dd124ffaa
